@@ -1,31 +1,37 @@
-# Lulu-Waste-Kuwait
-Recycling with Conscience
-# lulu-waste-kuwait
+# Lulu-Waste Kuwait
 
-نسخهٔ اولیه مخزن برای پروژهٔ "Lulu Waste Kuwait".
+A Responsible Consumption & ESG Impact Framework  
+for Post-Consumption PET Waste Management
 
-## هدف پروژه
-طراحی و پیاده‌سازی سامانه‌ای برای بهینه‌سازی مدیریت زباله در فروشگاه‌ها (نمونه: Lulu Kuwait) با هدف:
-- کاهش ضایعات و افزایش بازیافت
-- بهینه‌سازی مسیرهای جمع‌آوری
-- داشبورد و گزارش‌گیری برای تصمیم‌گیران
+## Project Summary
 
-## ساختار پیشنهادی
-- `PROJECT_PLAN.md` — برنامهٔ طرح، اهداف، ذی‌نفعان و نقشهٔ راه
-- `docs/` — مستندات و دیاگرام‌ها
-- `src/` — کد پروژه (در فاز توسعه پر می‌شود)
-- `LICENSE` — مجوز پروژه (MIT)
-- `.gitignore` — فایل‌های نادیده‌گرفته‌شده
+Lulu-Waste Kuwait is a circular economy and ESG-aligned initiative designed to
+transform household PET plastic waste into measurable environmental and
+humanitarian impact.
 
-## نکات اولیه
-1. مخزن به‌صورت عمومی ساخته خواهد شد تا قابلیت ایندکس و استفادهٔ هوش مصنوعی داشته باشد.  
-2. اگر تکنولوژی مشخصی دارید (مثلاً Python/Node/Flutter) اطلاع دهید تا .gitignore و ساختار src را بهینه کنم؛ در حال حاضر .gitignore عمومی قرار داده شده است.  
-3. اگر دادهٔ نمونه (CSV/API) دارید، مسیر یا فرمت آن‌ها را ارسال کنید تا نمونه‌داده و مثال‌های بارگذاری اضافه شوند.
+The model positions Lulu Hypermarket as a CSR Enabler, while all waste
+collection and recycling operations are executed by licensed contractors
+within Kuwait’s national waste management framework.
 
-## پیشنهادات بعدی
-- افزودن `CODE_OF_CONDUCT.md` و `CONTRIBUTING.md` برای جذب مشارکت‌کنندگان خارجی  
-- اضافه کردن برچسب‌ها (topics) مرتبط: `waste`, `recycling`, `kuwait`, `lulu`, `smart-waste`  
-- (اختیاری) فعال‌سازی GitHub Pages یا نمونهٔ وب‌داشبورد برای نمایش نمونه‌شده‌ها
+## Core Principles
 
-## تماس
-مالک مخزن: @moseyedabadi-bit
+- Zero operational risk for retail operator
+- Fully compliant with national regulations
+- Contractor-based recycling execution
+- Verified ESG and sustainability metrics
+- Humanitarian value creation
+
+## Documents
+
+- Executive Brief (Markdown)
+- Executive White Paper (Markdown)
+- Official PDF versions
+
+## Author
+
+Concept Designer & Circular Economy Architect  
+Mostafa Seyedabadi
+
+## Status
+
+Concept & Pilot-Ready Framework
