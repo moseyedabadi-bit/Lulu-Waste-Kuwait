@@ -34,6 +34,12 @@ Mostafa Seyedabadi — Concept Designer & Circular Economy Architect
 Project Management:
 Pedram Shadfar — Project Manager
 
+---
+
+## Related Ethical Framework
+- Makkah & Madinah – Responsible Waste Management Framework:
+  https://github.com/moseyedabadi-bit/makkah-madinah-waste
+
 
 ## Status
 
