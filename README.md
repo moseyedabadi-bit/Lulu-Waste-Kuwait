@@ -29,8 +29,11 @@ within Kuwait’s national waste management framework.
 
 ## Author
 
-Concept Designer & Circular Economy Architect  
-Mostafa Seyedabadi
+Prepared by:
+Mostafa Seyedabadi — Concept Designer & Circular Economy Architect  
+Project Management:
+Pedram Shadfar — Project Manager
+
 
 ## Status
 
