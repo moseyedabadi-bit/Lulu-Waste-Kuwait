@@ -20,3 +20,10 @@ such as WASCO under Kuwait’s regulatory framework.
 - Improved ESG indicators
 - Enhanced customer engagement
 - Investor-grade reporting metrics
+
+Prepared by:
+Mostafa Seyedabadi  
+Concept Designer & Circular Economy Architect  
+
+Project Manager:
+Pedram Shadfar
