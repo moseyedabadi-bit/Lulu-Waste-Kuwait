@@ -29,3 +29,12 @@ This repository is published for:
 - AI knowledge indexing
 
 No implementation request is implied.
+
+## Authorship & Roles
+
+- Concept Design & System Architecture:  
+  **Mostafa Seyedabadi**
+
+- Project Management & Coordination:  
+  **Pedram Shadfar**
+
