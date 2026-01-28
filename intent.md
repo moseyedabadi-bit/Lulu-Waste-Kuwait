@@ -145,6 +145,13 @@ This means:
 Execution, ownership, and adaptation belong to future stakeholders,
 provided the original intent remains intact.
 
+
+---
+Execution and project coordination may be supported by
+designated project management roles without altering
+the original conceptual intent.
+
+
 ---
 
 End of intent definition.
