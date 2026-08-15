@@ -1,0 +1,35 @@
+schema_version: 1
+project:
+  name: Lulu-Waste Kuwait
+  type: pilot-ready-conceptual-framework
+  status: concept
+  domains:
+    - circular-economy
+    - esg
+    - responsible-consumption
+    - pet-waste
+    - retail
+  region: Kuwait
+  human_entry: README.md
+  ai_entry: llms.txt
+  intent_source: intent.md
+  author:
+    name: Mostafa Seyedabadi
+    role: Concept Designer / Circular Economy Architect
+  project_management:
+    name: Pedram Shadfar
+    role: Project Manager
+architecture:
+  role_separation:
+    retail: enablement
+    contractors: licensed-operations
+    ngos: humanitarian-outcomes
+    participants: voluntary-households
+interpretation:
+  deployment_claim: false
+  institutional_endorsement_claim: false
+  legal_compliance_requires_verification: true
+safety:
+  voluntary_participation: true
+  non_exploitative_data: true
+  prohibit_secrets: true
