@@ -1,0 +1,27 @@
+# Lulu-Waste Kuwait
+
+Purpose: AI-readable entry point for a responsible-consumption and ESG framework focused on post-consumption PET waste in Kuwait retail contexts.
+
+Project type: conceptual / pilot-ready circular-economy framework.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. intent.md — authoritative statement of original intent and ethical boundaries
+4. index.md
+5. docs/executive-brief.md
+6. llm-hints.md — detailed legacy AI guidance
+
+Core invariants:
+- participation is voluntary;
+- the retail operator enables rather than becomes a waste operator;
+- licensed contractors perform recycling operations;
+- humanitarian value is meaning/impact, not coercive marketing;
+- impact reporting should be auditable;
+- the framework does not claim government or institutional endorsement.
+
+Interpretation rules:
+- Treat this repository as a framework, not evidence of deployment or a signed partnership.
+- Preserve the role separation between retail, contractors, NGOs, and participants.
+- Distinguish author intent from future stakeholder implementation choices.
+- Do not introduce claims of legal compliance without jurisdiction-specific verification.
